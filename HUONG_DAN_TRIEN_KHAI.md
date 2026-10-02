@@ -1,4 +1,4 @@
-# Hướng dẫn triển khai — IT Renewal Management Nguồn: LHH JSC
+# Hướng dẫn triển khai — IT Renewal Management 
 
 Bộ 3 file đi kèm:
 
